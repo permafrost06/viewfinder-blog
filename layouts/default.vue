@@ -102,6 +102,10 @@ p {
   font-style: italic;
 }
 
+.ul {
+  text-decoration: underline;
+}
+
 .container {
   margin-left: auto;
   margin-right: auto;
