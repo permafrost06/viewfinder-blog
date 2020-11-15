@@ -1,6 +1,9 @@
 <template>
   <div class="container">
-    <article-4 />
+    <a href="/photography-from-passion-to-profession">Article 1</a><br>
+    <a href="/street-photography-using-mobile-phone-camera">Article 2</a><br>
+    <a href="/mobile-photography-take-your-photography-to-the-next-level">Article 3</a><br>
+    <a href="/black-and-white-photography-and-subsequent">Article 4</a>
   </div>
 </template>
 
@@ -12,6 +15,6 @@ export default Vue.extend({})
 
 <style lang="scss" scoped>
 .container {
-  margin-top: 15vh;
+  margin-top: 20vh;
 }
 </style>
